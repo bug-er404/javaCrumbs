@@ -11,3 +11,7 @@ Using JSP/JSTL, Servlet, JDBC(MySql) in Java EE to perform simple CRUD(Create-Re
 
 ## 3.4
 CRUD operations using Hibernate. Adding a cart feature.
+
+
+## 4.1
+Demo of CRUD operations in Hibernate. Table joins, all crud operations - good sample.
